@@ -1,0 +1,344 @@
+<!-- NOTE ON NEW CURRENCY ADDITIONS - If a cryptocurrency does not have its own article on Wikipedia, do not include it in this table. If it has a recently created article and you're not sure it's notable (see [[WP:GNG]]), please ask in [[Talk:Cryptocurrency]]; most cryptocurrency articles are deleted after a week or two discussion process. -->
+This is a list of [[cryptocurrency|cryptocurrencies]]. The number of cryptocurrencies available over the internet {{as of|2017|11|27|lc=y}} is over 1324 and growing.<ref>{{Cite web|url=https://coinmarketcap.com/all/views/all/|title=All Cryptocurrencies {{!}} CoinMarketCap|website=coinmarketcap.com|language=en|access-date=2017-11-27}}</ref> A new cryptocurrency can be created at any time. By market capitalization, [[Bitcoin]] is currently (2017-08-19) the largest [[blockchain]] network, followed by [[Ethereum]], [[Bitcoin Cash]], [[Ripple (payment protocol)|Ripple]] and [[Litecoin]].<ref>{{cite web|url=http://coinmarketcap.com/currencies/views/all/ |title=All Currencies &#124; CryptoCurrency Market Capitalizations |website=Coinmarketcap.com |date= |accessdate=2017-07-24}}</ref>
+
+==Cryptocurrencies==
+{{Expand list|date=September 2017}}
+{| class="wikitable sortable" style="text-align: center; width: auto;"
+|-
+! Release
+! Status
+! Currency
+! Symbol
+! Founder
+! [[Hash function|Hash algorithm]]
+! Cryptocurrency blockchain <br/>{{small|([[Proof-of-stake|PoS]], [[Proof-of-work system|PoW]], or other)}}
+! Notes
+|-
+| <!--Year Est.      --> 2009
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Bitcoin]]
+| <!--Code           --> BTC,<ref name="Dixon">{{cite news | last=Dixon | first=Lance | title=Building Bitcoin use in South Florida and beyond | date=24 December 2013 | work=Miami Herald | url=http://www.miamiherald.com/2013/12/23/3835016/building-bitcoin-use-in-south.html#storylink=cpy | accessdate=24 January 2014 }}</ref><ref name="Spaven">{{cite news | last=Spaven | first=Emily | title=Bitcoin price could reach $98,500, say Wall Street analysts | work=CoinDesk | date=3 December 2013 | url=http://www.coindesk.com/bitcoin-price-reach-98500-say-wall-street-analysts/ | accessdate=24 January 2014 }}</ref> XBT
+| <!--Founder        --> [[Satoshi Nakamoto]]<ref group="nt">It is not known whether the name "Satoshi Nakamoto" is real or a pseudonym, nor whether it represents one person or a group.</ref>
+| <!--Hash algorithm --> [[SHA-2]]56d<ref>{{ cite journal | title=Bitcoin and the age of bespoke silicon | last=Taylor | first=Michael Bedford | work=Proceedings of the 2013 International Conference on Compilers, Architectures and Synthesis for Embedded Systems | date=2013 | isbn=978-1-4799-1400-5 | publisher=[[IEEE Press]] | location=Piscataway, NJ | url=http://cseweb.ucsd.edu/users/mbtaylor/papers/bitcoin_taylor_cases_2013.pdf | format=PDF | accessdate=14 January 2014 }}</ref><ref name=steadman2013>{{ cite news | last=Steadman | first=Ian | title=Wary of Bitcoin? A guide to some other crypto currencies | url=https://www.wired.co.uk/news/archive/2013-05/7/alternative-cryptocurrencies-guide/viewall | date=7 May 2013 | work=Wired UK | publisher=Condé Nast UK }}</ref>
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]<ref name=steadman2013/><ref name="ReferenceA">{{ cite news | last=Hobson | first=Dominic | title=What is Bitcoin? | work=XRDS: Crossroads, The ACM Magazine for Students | publisher=Association for Computing Machinery | volume=20 | issue=1 | year=2013 | pages=40–44 | issn=1528-4972 | doi=10.1145/2510124 }}</ref>
+|  The first decentralized ledger currency. Cryptocurrency with the most famous, popular, notable and highest market capitalization.
+|-
+| <!--Year Est.      --> 2011
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Litecoin]]
+| <!--Code           --> LTC
+| <!--Founder        --> Charles Lee
+| <!--Hash algorithm --> [[Scrypt]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> The first cryptocurrency to use [[Scrypt]] as a hashing algorithm.
+|-
+| <!--Year Est.      --> 2011
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Namecoin]]
+| <!--Code           --> NMC
+| <!--Founder        --> Vincent Durham<ref>{{cite web|url=https://github.com/vinced/namecoin |title=vinced/namecoin: Vince's tree - see namecoin/namecoin for main integration tree |publisher=[[GitHub]] |date= |accessdate=2017-07-24}}</ref><ref>{{cite news | url=https://prezi.com/snbcoa3ajwck/namecoin/ | work=Prezi | title=Namecoin - a distributed name system based on Bitcoin | first=Levin | last=Keller | date=2011-03-19 }}</ref>
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Also acts as an alternative, decentralized [[DNS]].
+|-
+| <!--Year Est.      --> 2011
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[SwiftCoin]]
+| <!--Code           --> STC
+| <!--Founder        --> Daniel Bruno<ref>{{cite web |url=http://www.coinnewsasia.com/swiftcoin-we-are-talking-to-chinese-vcs-about-our-bitcoin-bonds |title=Swiftcoin: We Are Talking to Chinese VCs about Our Bitcoin Bonds |work=Coin News Asia |date=2015-06-15 |accessdate=2017-03-23}}</ref>
+| <!--Hash algorithm --> SHA-256
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> First digital coin with theoretical value based on the work required to produce electricity. First block chain to support currency creation by interest paid on debt. [[Solidus Bond]] proto smart-contract. One of the first digital coins patented in the US. First block chain to support encrypted mail with attachments.
+|-
+| <!--Year Est.      --> 2012
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Peercoin]]
+| <!--Code           --> PPC
+| <!--Founder        --> Sunny King<br>(pseudonym)<ref name=boase2013/>
+| <!--Hash algorithm --> [[SHA-2]]56d<ref>{{ cite news | last=Bradbury | first=Danny | date=7 November 2013 | title=Third largest crypto currency peercoin moves into spotlight with Vault of Satoshi deal | url=http://www.coindesk.com/peercoin-vault-of-satoshi-deal/ | work=CoinDesk | accessdate=14 January 2014 }}</ref>
+| <!--Timestamping   --> [[Proof-of-work system|PoW]] & [[Proof-of-stake|PoS]]
+| <!--Notes          --> The first cryptocurrency to use POW and POS functions.
+|-
+| <!--Year Est.      --> 2013
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Dogecoin]]
+| <!--Code           --> DOGE, XDG
+| <!--Founder        --> Jackson Palmer<br />& Billy Markus<ref>{{ cite news | last=Chang | first=Jon M | title=Bitcoin alternative 'Dogecoin' hacked, 21 million coins stolen | date=27 December 2013 | work=ABC News (website) | url=http://abcnews.go.com/Technology/bitcoin-alternative-dogecoin-hacked-21-million-coins-stolen/story?id=21342612 | accessdate=14 January 2014 | publisher=ABC News Internet Ventures, Yahoo! – ABC News Network }}</ref>
+| <!--Hash algorithm --> [[Scrypt]]<ref name="dogeintrotech">{{cite web |title=Intro - Dogecoin # Technical specifications |url=http://www.dogeco.in/wiki/index.php/Intro#Technical_specifications|website=Dogeco.in |accessdate=14 December 2013}}</ref>
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Based on an [[Doge (meme)|internet meme]].
+|-
+| <!--Year Est.      --> 2013
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Emercoin]]
+| <!--Code           --> EMC
+| <!--Founder        --> EvgenijM86 & Yitshak Dorfman
+| <!--Hash algorithm --> [[SHA-2]]56
+| <!--Timestamping   --> [[Proof-of-work system|PoW]] & [[Proof-of-stake|PoS]]
+| <!--Notes          --> Trusted storage for any small data: acts as an alternative, decentralized [[DNS]], PKI store, SSL infrastructure and other.
+|-
+| <!--Year Est.      --> 2013<ref>{{cite web |last=Halford |first=Rob |url=https://cryptocointalk.com/topic/1331-new-coin-launch-announcement-grc-gridcoin/page-195#entry101161 |title= GRIDCOIN – GRC (The environmentally conscious coin) |website= cryptocointalk.com |date=2013-10-06 |accessdate=2014-11-14}}</ref><ref>{{cite web|last1=Wagner|first1=Andrew|title=Putting the Blockchain to Work For Science!|url=https://bitcoinmagazine.com/articles/putting-the-blockchain-to-work-for-science-gridcoin-1400747268|website=[[Bitcoin Magazine]]|accessdate=9 April 2016}}</ref>
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Gridcoin]]
+| <!--Code           --> GRC
+| <!--Founder        --> Rob Hälford <ref>{{cite web|url=https://cryptocointalk.com/topic/1331-new-coin-launch-announcement-grc-gridcoin/ |title=New Coin Launch Announcement - GRC - GridCoin - GRIDCOIN GRC - Cryptocurrencytalk.com |website=Cryptocointalk.com |date= |accessdate=2017-07-24}}</ref>
+| <!--Hash algorithm --> [[Scrypt]]
+| <!--Timestamping   --> Decentralized [[Proof-of-stake|PoS]]
+| <!--Notes          --> The first cryptocurrency linked to [[citizen science]] through the [[Berkeley Open Infrastructure for Network Computing]]<ref>{{cite web|last1=Halford|first1=Rob|title=Gridcoin: Crypto-Currency using Berkeley Open Infrastructure Network Computing Grid as a Proof Of Work|url=http://www.gridcoin.us/images/gridcoin-white-paper.pdf|accessdate=11 April 2016}}</ref><ref>{{cite web|title=GridCoin: Using the Blockchain for Good|url=http://cointelegraph.com/news/gridcoin_using_the_blockchain_for_good|website=CoinTelegraph|accessdate=9 April 2016}}</ref>
+|-
+| <!--Year Est.      --> 2013
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Mastercoin|Omni]]
+| <!--Code           --> MSC
+| <!--Founder        --> J. R. Willett <ref name="Mastercoin">{{cite news|last=Buterin|first=Vitalik|title=Mastercoin: A Second-Generation Protocol on the Bitcoin Blockchain|url=http://bitcoinmagazine.com/7961/mastercoin-a-second-generation-protocol-on-the-bitcoin-blockchain/|accessdate=9 January 2014|newspaper=[[Bitcoin Magazine]]|date=4 November 2013}}</ref>
+| <!--Hash algorithm --> [[SHA-2]]56d<ref name="Mastercoin Whitepaper">{{cite web |title=Mastercoin Spec |url=https://github.com/mastercoin-MSC/spec |accessdate=2 April 2014}}</ref>
+| <!--Timestamping   --> {{N/a}}
+| <!--Notes          --> Omni is both [[digital currency]] and [[communications protocol]] built on top of the existing [[Bitcoin#block chain|bitcoin block chain]].
+|-
+| <!--Year Est.      --> 2013
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Primecoin]]
+| <!--Code           --> XPM
+| <!--Founder        --> Sunny King<br>(pseudonym)<ref name=boase2013>{{ cite news | last=Boase | first=Richard | title=Litecoin spikes to $200m market capitalization in five hours | work=CoinDesk | date=20 November 2013 | url=http://www.coindesk.com/litecoin-spikes-200m-market-capitalization/ | accessdate=14 January 2014 }}</ref>
+| <!--Hash algorithm --> [[Cunningham chains|1CC]]/[[Cunningham chains|2CC]]/[[Bi-twin chain|TWN]]<ref name="primecoin_faq">{{cite web |title=FAQ · primecoin/primecoin Wiki · GitHub |url=https://github.com/primecoin/primecoin/wiki/FAQ |accessdate=20 January 2014}}</ref>
+| <!--Timestamping   --> POW<ref name="primecoin_faq"/>
+| <!--Notes          --> Uses the finding of prime chains composed of Cunningham chains and bi-twin chains for proof-of-work, which can lead to useful byproducts.
+|-
+| <!--Year Est.      --> 2013
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Ripple (payment protocol)|Ripple]]<ref name=psmag>{{cite web|last=Chayka|first=Kyle|title=What Comes After Bitcoin?|url=http://www.psmag.com/navigation/business-economics/what-comes-after-bitcoin-future-of-cryptocurrency-61660/|publisher=Pacific Standard|date=2 July 2013|accessdate=18 Jan 2014}}</ref><ref>{{ cite news | title=Ripple's Big Move: Mining Crypto currency with a Purpose | date=4 December 2013 | last=Vega | first=Danny | work=[[Seattle Post-Intelligencer|Seattlepi.com]] | publisher=Hearst Seattle Media, LLC, a division of [[Hearst Corporation|The Hearst Corporation]] | url=http://www.seattlepi.com/technology/heavy/article/Ripple-s-Big-Move-Mining-Cryptocurrency-with-a-5079697.php }}</ref><ref name=brown2013>{{ cite news | last=Brown | first=Ariella | title=10 things you need to know about Ripple | date=17 May 2013 | work=CoinDesk | url=http://www.coindesk.com/10-things-you-need-to-know-about-ripple/ | accessdate=15 January 2014 }}</ref>
+| <!--Code           --> XRP<ref name=brown2013/>
+| <!--Founder        --> Chris Larsen &<br>Jed McCaleb<ref>{{cite news | last=Simonite | first=Tom | title=Big-name investors back effort to build a better Bitcoin | date=11 April 2013 | work=[[MIT Technology Review]] | url=http://www.technologyreview.com/news/513606/big-name-investors-back-effort-to-build-a-better-bitcoin/ | accessdate=14 January 2014 }}</ref>
+| <!--Hash algorithm --> [[ECDSA]]<ref name="ripple">{{cite web |title=How it works - Ripple Wiki |url=https://ripple.com/wiki/How_it_works |accessdate=20 January 2014}}</ref>
+| <!--Timestamping   --> "Consensus"
+| <!--Notes          --> Designed for [[peer to peer]] debt transfer. Not based on bitcoin.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Auroracoin]]
+| <!--Code           --> AUR
+| <!--Founder        --> Baldur Odinsson<br />(pseudonym)<ref name=wsj20140305>{{cite news | title=Auroracoin already third-biggest cryptocoin–and it's not even out yet | url=https://blogs.wsj.com/moneybeat/2014/03/05/auroracoin-already-second-biggest-virtual-currency-and-its-not-even-out-yet/ | first=Michael J. | last=Casey | work=The Wall Street Journal | date=2014-03-05 }}</ref>
+| <!--Hash algorithm --> [[Scrypt]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Created as an alternative to fiat currency in Iceland.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}	
+| <!--Currency       --> [[BlackCoin]]	
+| <!--Code           --> BC
+| <!--Founder        --> Rat4 (pseudonym)
+| <!--Hash algorithm --> [[Scrypt]]	
+| <!--Timestamping   --> [[Proof-of-stake|PoS]]
+| <!--Notes          --> Secures its network through a process called minting.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Burstcoin]]
+| <!--Code           --> BURST
+| <!--Founder        --> Burstcoin Community
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> Proof of Capacity
+| <!--Notes          --> First Proof of Capacity coin, First Smart Contract, First Atomic Cross Chain Transfer.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{no|Inactive}}
+| <!--Currency       --> [[Coinye]]
+| <!--Code           --> KOI, COYE
+| <!--Founder        -->
+| <!--Hash algorithm --> [[Scrypt]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Used American hip hop artist [[Kanye West]] as its mascot, abandoned after trademark lawsuit.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Dash (cryptocurrency)|Dash]]
+| <!--Code           --> DASH
+| <!--Founder        -->Evan Duffield &<br>Kyle Hagan<ref>{{cite news | url=http://www.tomsguide.com/us/darkcoin-faq,news-18828.html | title=What is Dash? An FAQ | first=Jill | last=Scharr | date=28 May 2014 | work=Tom's Guide }}</ref>
+| <!--Hash algorithm --> [[Dash (cryptocurrency)|X11]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]] & Proof of Service<ref group="nt">Via Masternodes containing 1000 DASH held as collateral for "Proof of Service". Through an automated voting mechanism, one Masternode is selected per block and receives 45% of mining rewards.</ref>
+| <!--Notes          --> A [[bitcoin]]-based currency featuring instant transactions, [[Decentralized autonomous organization|decentralized governance]] and budgeting, and private transactions.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[CryptoNote#DigitalNote (XDN)|DigitalNote]]
+| <!--Code           --> XDN
+| <!--Founder        --> XDN-dev team, dNote
+| <!--Hash algorithm --> [[CryptoNote#Egalitarian proof of work|CryptoNight]]<ref name=cryptonight>{{cite web|url=https://en.bitcoin.it/wiki/CryptoNight |title=CryptoNight - Bitcoin Wiki |website=En.bitcoin.it |date=2014-06-19 |accessdate=2017-07-24}}</ref>
+| <!--Timestamping    --> [[Proof-of-work system|PoW]]
+| <!--Notes           --> A private cryptocurrency with an instant untraceable crypto messages and first blockchain banking implementation, use CryptoNote protocol.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[MazaCoin]]
+| <!--Code           --> MZC 
+| <!--Founder        --> BTC Oyate Initiative
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> The underlying software is derived from that of another cryptocurrency, ZetaCoin.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Monero (cryptocurrency)|Monero]]
+| <!--Code           --> XMR
+| <!--Founder        --> Monero Core Team
+| <!--Hash algorithm --> [[CryptoNote#Egalitarian proof of work|CryptoNight]]<ref name="cryptonight"/>
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Privacy-centric coin using the CryptoNote protocol with improvements for scalability and decentralization.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}	
+| <!--Currency       --> [[NEM (cryptocurrency)|NEM]]	
+| <!--Code           --> XEM
+| <!--Founder        --> UtopianFuture (pseudonym)
+| <!--Hash algorithm --> [[SHA3-512]]	
+| <!--Timestamping   --> POI
+| <!--Notes          --> The first hybrid public/private blockchain solution built from scratch, and first to use the Proof of Importance algorithm using [[EigenTrust]]++ reputation system.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Nxt]]
+| <!--Code           --> NXT
+| <!--Founder        --> BCNext<br>(pseudonym)
+| <!--Hash algorithm --> [[SHA-2]]56d<ref name=nxtwhitepaper-forge>{{cite web|title=NXT Whitepaper|url=https://wiki.nxtcrypto.org/wiki/Whitepaper:Nxt#The_Forging_Algorithm|website=NxtWiki - Whitepaper|accessdate=21 December 2014}}</ref>
+| <!--Timestamping   --> [[Proof-of-stake|PoS]]
+| <!--Notes          --> Specifically designed as a flexible platform to build applications and financial services around its protocol.
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Inactive}}
+| <!--Currency       --> [[PotCoin]]
+| <!--Code           --> POT
+| <!--Founder        --> 
+| <!--Hash algorithm --> [[Scrypt]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Developed to service the legalized cannabis industry
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Synereo|Synereo AMP]]
+| <!--Code           --> AMP
+| <!--Founder        --> Dor Konforty & Greg Meredith<ref>Meredith, Greg. [https://blog.synereo.com/2016/09/12/synereo-a-brief-history/ "A Brief History of Synereo"]. ''Synereo Blog''. Retrieved 13 October 2016.</ref>
+| <!--Hash algorithm --> [[Proof-of-stake|PoS]]
+| <!--Timestamping   --> [[Proof-of-stake|PoS]]
+| <!--Notes          --> Trying to create a world computer, Synereo’s 2.0 tech stack incorporates all faculties needed to support decentralized computation without central servers.<ref>[https://bitcoinmagazine.com/articles/synereo-and-nfx-guild-launch-strategic-partnership-to-build-a-decentralized-internet-1475242687 "Synereo and NFX Guild Launch Strategic Partnership to Build a Decentralized Internet"]. Bitcoin Magazine. Retrieved 13 November 2016.</ref>
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Titcoin]]
+| <!--Code           --> TIT
+| <!--Founder        --> Edward Mansfield & Richard Allen<ref>Mercier Voyer, Stephanie. [https://www.vice.com/en_ca/read/titcoin-is-a-brand-new-cryptocurrency-for-porn-purchases "Titcoin Is a Brand New Cryptocurrency for Porn Purchases"]. ''Vice Magazine''. Retrieved 18 June 2014.</ref>
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> The first cryptocurrency to be nominated for a major adult industry award.<ref>[http://www.payoutmag.com/index.php/press-releases/802-titcoin-receives-two-web-a-tech-xbiz-nominations "Titcoin Receives Two Web & Tech XBIZ Nominations"]. Payout Magazine. Retrieved 18 November 2014.</ref>
+|-
+| <!--Year Est.      --> 2014
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Vertcoin]]
+| <!--Code           --> VTC
+| <!--Founder        --> Bushido
+| <!--Hash algorithm --> [[Lyra2]]rev2
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]
+| <!--Notes          --> Next-gen ASIC resistance and first to implement stealth adresses.
+|-
+| <!--Year Est.      --> 2015
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Ethereum]]
+| <!--Code           --> ETH
+| <!--Founder        --> [[Vitalik Buterin]]<ref>{{cite web|url=https://www.wired.com/2014/01/ethereum/ |title=Out in the Open: Teenage Hacker Transforms Web Into One Giant Bitcoin Network |website=Wired.com |accessdate=2017-07-24}}</ref>
+| <!--Hash algorithm --> [[Ethash]]<ref name="dagger">{{cite web|author= |url=https://github.com/ethereum/wiki/wiki/Ethash |title=Ethash |website=Github.com |date= |accessdate=2017-07-24}}</ref>
+| <!--cryptocurrency blockchain    --> [[Proof-of-work_system|PoW]]
+| <!--Notes          --> Supports [[Turing-complete]] smart contracts.
+|-
+| <!--Year Est.      --> 2015
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Ethereum Classic]]
+| <!--Code           --> ETC
+| <!--Founder        --> 
+| <!--Hash algorithm --> [[Ethash]]<ref name="dagger" />
+| <!--Timestamping   --> [[Proof-of-work_system|PoW]]
+| <!--Notes          --> An alternative version of Ethereum<ref>{{cite web|author= |url=https://github.com/ethereumclassic/README/blob/master/README.md |title=README/README.md at master |website=Github.com |date= |accessdate=2017-07-24}}</ref> whose blockchain does not include the DAO Hard-fork.<ref>{{Cite news|url=http://www.marketwatch.com/story/grayscale-launches-ethereum-classic-investment-trust-2017-04-26|title=Exclusive: Grayscale launches digital-currency fund backed by Silver Lake’s co-founder Hutchins|last=Adinolfi|first=Joseph|work=MarketWatch|access-date=2017-04-27|language=en-US}}</ref><ref>{{cite web|url=https://bitcoinmagazine.com/articles/rejecting-today-s-hard-fork-the-ethereum-classic-project-continues-on-the-original-chain-here-s-why-1469038808/|title=Rejecting Today’s Hard Fork, the Ethereum Classic Project Continues on the Original Chain: Here's Why|last=Wirdum|first=Aaron van|website=Bitcoin Magazine|access-date=2017-04-27}}</ref> Supports [[Turing-complete]] smart contracts.
+|-
+| <!--Year Est.      --> 2015
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[IOTA (cryptocurrency)|IOTA]]
+| <!--Code           --> IOT, MIOTA<ref>{{cite web|url=https://coinmarketcap.com/currencies/iota/ |title=IOTA (MIOTA) price, charts, market cap, and other metrics |website=CoinMarketCap.com |date= |accessdate=2017-07-24}}</ref>
+| <!--Founder        --> ...
+| <!--Hash algorithm --> [[SHA-3]]
+| <!--Timestamping   --> ...
+| <!--Notes          --> The first cryptocurrency using the [[IOTA (cryptocurrency)#Tangle|Tangle]], a next generation [[blockchain]], as distributed ledger technology.
+|-
+| <!--Year Est.      --> 2015
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[SixEleven]]
+| <!--Code           --> SIL
+| <!--Founder        --> fflo (pseudonym)<ref>{{cite web|author= |url=https://github.com/fflo/sixeleven |title=fflo/sixeleven: SixEleven tree - official website: |publisher=[[GitHub]] |date= |accessdate=2017-07-24}}</ref>
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> [[Proof-of-work_system|PoW]]
+| <!--Notes          --> Also acts as an alternative, decentralized [[DNS]].
+|-
+| <!--Year Est.      --> 2016
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Decred]]
+| <!--Code           --> DCR
+| <!--Founder        -->
+| <!--Hash algorithm --> [[BLAKE_(hash_function)|Blake-256]]
+| <!--Timestamping   --> [[Proof-of-work system|PoW]]/[[Proof-of-stake|PoS]] Hybrid
+| <!--Notes          --> Built in governance and hybrid PoW/PoS.
+|-
+| <!--Year Est.      --> 2016
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Waves Platform]]
+| <!--Code           --> WAVES
+| <!--Founder        --> Sasha Ivanov
+| <!--Hash algorithm --> [[Proof-of-stake|PoS]]
+| <!--Timestamping   --> [[Proof-of-stake|PoS]]
+| <!--Notes          --> Open blockchain platform, featuring token creation, distributed exchange and fast high volume transactions designed for ease of use<ref>[https://www.forbes.com/sites/rogeraitken/2017/04/03/the-birth-of-a-blockchain-from-ripples-to-making-crypto-waves/#1659e97a418b "The Birth Of A Blockchain: From Ripples To Making 'Crypto' Waves"]. Forbes. Retrieved 20 October 2017.</ref> and mass adoption.
+|-
+| <!--Year Est.      --> 2016
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Zcash]]
+| <!--Code           --> ZEC
+| <!--Founder        -->[[Zooko Wilcox-O'Hearn|Zooko Wilcox]]
+| <!--Hash algorithm --> [[Equihash]]
+| <!--Timestamping   --> [[Proof-of-work_system|PoW]]
+| <!--Notes          --> The first open, permissionless financial system employing zero-knowledge security.
+|-
+| <!--Year Est.      --> 2016
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Ark Ecosystem]]
+| <!--Code           --> ARK
+| <!--Founder        -->[[The Ark Team]]
+| <!--Hash algorithm --> [[DPoS]]
+| <!--Timestamping   --> [[Delegate-Proof-of-work_system|DPoS]]
+| <!--Notes          --> Ark Ecosystem is an open-source, public, blockchain-based distributed computing platform featuring smart bridge and smart contract functionality.
+|-
+| <!--Year Est.      --> 2017
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Bitcoin Cash]]
+| <!--Code           --> BCH<ref>{{cite web|title=Bitcoin Cash Markets and Dillema|url=https://cryptocoincharts.info/topic/bitcoin-cash|website=CryptoCoinCharts|accessdate=14 September 2017}}</ref>, BCC
+| <!--Founder        --> 
+| <!--Hash algorithm --> [[SHA-2]]56d
+| <!--Timestamping   --> [[Proof-of-work_system|PoW]]
+|  Hard fork from Bitcoin 
+|-
+| <!--Year Est.      --> 2017
+| <!--Active/Inactive--> {{yes|Active}}
+| <!--Currency       --> [[Ubiq]]
+| <!--Code           --> UBQ
+| <!--Founder        --> Julian Yap<ref>{{cite web|title=jyap808 (Julian Y)|url=https://github.com/jyap808|website=Github|accessdate=17 June 2017}}</ref>
+| <!--Hash algorithm --> [[Ethash]]<ref name="dagger" />
+| <!--Timestamping   --> [[Proof-of-work_system|PoW]]
+| <!--Notes          --> Supports [[Turing-complete]] smart contracts; air-gapped fork of [[Ethereum]]
+|-
+|}
+
+<!-- NOTE ON NEW CURRENCY ADDITIONS - READ TOP OF ARTICLE BEFORE ADDING TO TABLE -->
+
+==Notes==
+<references group=nt />
+
+==References==
+{{Reflist|30em}}
+
+{{Cryptocurrencies}}
+
+[[Category:Cryptocurrencies|*]]
